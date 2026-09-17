@@ -1,6 +1,6 @@
 # Bandit Writeups
 
-Writeups for OverTheWire's Bandit wargame, working through the levels and mapping each one to a real-world and cloud security equivalent while going
+Writeups for OverTheWire's Bandit wargame, working through the levels and mapping each one to a real-world and cloud parallels where the level is substantial enough to warrant one. Each writeup includes the full troubleshooting process
 
 ## Levels
 - [Level 0](level-00.md)
