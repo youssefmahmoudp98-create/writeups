@@ -1,4 +1,4 @@
-## Level 20 to 21
+## Level 19 to 20
 
 Goal: use the setuid binary in the home directory to gain access to the password for level 20, stored in `/etc/bandit_pass/bandit20`.
 
